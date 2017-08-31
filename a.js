@@ -1,5 +1,5 @@
 ####var onePaths = $('#one g .st0');
-#var sixPaths = $("#six g .st0");
+var sixPaths = $("#six g .st0");
 var oneTL = new TimelineMax({repeat:-1, ease: Power2.easeOut});
 var sixTL = new TimelineMax({repeat:-1, ease: Power2.easeOut});
 var gold = "#f8d31f";
